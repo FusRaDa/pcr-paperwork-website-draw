@@ -1,24 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T00:37:23.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="zRGTU4AyK715Tlt9qr6W" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-11T23:42:51.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hCz8Js0a3aXVthDizoBn" version="20.3.0" type="github">
   <diagram id="LaU50FEgYTBbN2ljfZ3S" name="Page-1">
-    <mxGraphModel dx="563" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2685" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Fp0RqGOX6O69j0grpJAd-3" value="App.js" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="60" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Fp0RqGOX6O69j0grpJAd-4" value="index.js" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="10" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Fp0RqGOX6O69j0grpJAd-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.503;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Fp0RqGOX6O69j0grpJAd-3" target="Fp0RqGOX6O69j0grpJAd-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="615" y="130" as="sourcePoint" />
-            <mxPoint x="665" y="80" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="JK3jXlClNwFspz71vpZK-48" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="TSWFRNveR_eCSNxllhdP-13" target="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TSWFRNveR_eCSNxllhdP-13" value="HomePage.js&#xa;( Intro/Tutorial)" style="swimlane;startSize=30;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="10" width="320" height="330" as="geometry">
-            <mxRectangle x="10" y="10" width="140" height="30" as="alternateBounds" />
+          <mxGeometry x="-160" y="10" width="320" height="310" as="geometry">
+            <mxRectangle x="-495" y="10" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TSWFRNveR_eCSNxllhdP-18" value="pcrpaperwork.com" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="TSWFRNveR_eCSNxllhdP-13" vertex="1">
@@ -33,11 +24,134 @@
         <mxCell id="TSWFRNveR_eCSNxllhdP-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/burger-menu-more-panel-128.png;fontSize=6;" parent="TSWFRNveR_eCSNxllhdP-13" vertex="1">
           <mxGeometry x="30" y="46" width="18" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="TSWFRNveR_eCSNxllhdP-41" value="My Labs&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" parent="TSWFRNveR_eCSNxllhdP-13" vertex="1">
+        <mxCell id="TSWFRNveR_eCSNxllhdP-41" value="My Labs&lt;br&gt;&lt;br&gt;Assays&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" parent="TSWFRNveR_eCSNxllhdP-13" vertex="1">
           <mxGeometry x="8.5" y="70" width="51.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="TSWFRNveR_eCSNxllhdP-35" value="&lt;font size=&quot;1&quot;&gt;Introduction&lt;br&gt;and&lt;br&gt;Tutorial&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" parent="TSWFRNveR_eCSNxllhdP-13" vertex="1">
           <mxGeometry x="60" y="70" width="251" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-9" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Lab: matt&#39;s lab&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="TSWFRNveR_eCSNxllhdP-13">
+          <mxGeometry x="8.5" y="80" width="51.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-49" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="JK3jXlClNwFspz71vpZK-1" target="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-50" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=6;" edge="1" parent="1" source="JK3jXlClNwFspz71vpZK-1" target="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-1" value="MyLabs.js" style="swimlane;startSize=30;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="10" width="320" height="310" as="geometry">
+            <mxRectangle x="-495" y="80" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-2" value="pcrpaperwork.com" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="8.5" y="40" width="303" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="8.5" y="70" width="303" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-4" value="Login" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="250" y="48.75" width="39" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/burger-menu-more-panel-128.png;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="30" y="46" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-6" value="My Labs&lt;br&gt;&lt;br&gt;Assays&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="8.5" y="70" width="51.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="60" y="70" width="251" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-8" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Lab: matt&#39;s lab&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="8.5" y="80" width="51.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-10" value="Lab Name (Join a lab)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="71" y="80" width="175.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-11" value="Master Sheets&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="70" y="110" width="175.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-12" value="List of &lt;br&gt;Lab&amp;nbsp; Techs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="250" y="110" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-13" value="Lab Settings&lt;br&gt;(Create a Lab)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-1">
+          <mxGeometry x="251" y="80" width="49" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-15" value="CreateLab.js" style="swimlane;startSize=30;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="350" width="320" height="310" as="geometry">
+            <mxRectangle x="-495" y="80" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-16" value="pcrpaperwork.com" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="8.5" y="40" width="303" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="8.5" y="70" width="303" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-18" value="Login" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="250" y="48.75" width="39" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/burger-menu-more-panel-128.png;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="30" y="46" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-20" value="My Labs&lt;br&gt;&lt;br&gt;Assays&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="8.5" y="70" width="51.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="60" y="70" width="251" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-22" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Lab: matt&#39;s lab&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="8.5" y="80" width="51.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-23" value="Lab Name" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="70" y="80" width="175.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-24" value="Master Sheet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="70" y="110" width="175.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-25" value="List of &lt;br&gt;Lab&amp;nbsp; Techs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="250" y="110" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-26" value="Lab Settings" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
+          <mxGeometry x="251" y="80" width="49" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-27" value="FindLab.js" style="swimlane;startSize=30;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="10" width="320" height="310" as="geometry">
+            <mxRectangle x="-495" y="80" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-28" value="pcrpaperwork.com" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="8.5" y="40" width="303" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="8.5" y="70" width="303" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-30" value="Login" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="250" y="48.75" width="39" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/burger-menu-more-panel-128.png;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="30" y="46" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-32" value="My Labs&lt;br&gt;&lt;br&gt;Assays&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="8.5" y="70" width="51.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="60" y="70" width="251" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-34" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Lab: matt&#39;s lab&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="8.5" y="80" width="51.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-35" value="Lab Name" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="70" y="80" width="175.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-36" value="Master Sheet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="70" y="110" width="175.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-37" value="List of &lt;br&gt;Lab&amp;nbsp; Techs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="250" y="110" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JK3jXlClNwFspz71vpZK-38" value="Lab Settings" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-27">
+          <mxGeometry x="251" y="80" width="49" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
