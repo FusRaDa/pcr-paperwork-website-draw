@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T14:32:35.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="MxV-cx539CYUsdty-ZGP" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-13T20:05:13.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="t0Nstu5ozq2jm-DcXy_w" version="20.3.0" type="github" pages="5">
   <diagram id="LaU50FEgYTBbN2ljfZ3S" name="Overview">
-    <mxGraphModel dx="5788" dy="2265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3624" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,6 +319,9 @@
         <mxCell id="cyD56U8mkS8DnS-TQXg8-173" value="View Assays" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;fillColor=#FFFFFF;" parent="cyD56U8mkS8DnS-TQXg8-53" vertex="1">
           <mxGeometry x="220" y="85" width="80" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="lI2lUhFzDLr2DAA_Fos2-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Join/Create&lt;br&gt;Lab&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-53">
+          <mxGeometry x="60" y="110" width="60" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-63" value="Promotions.js" style="swimlane;startSize=30;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-540" y="10" width="320" height="310" as="geometry">
             <mxRectangle x="-495" y="10" width="140" height="30" as="alternateBounds" />
@@ -464,6 +467,9 @@
         </mxCell>
         <mxCell id="2jOCDJVjYcCqVUAFOC5I-14" value="Add Product" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-100">
           <mxGeometry x="220" y="82.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="lI2lUhFzDLr2DAA_Fos2-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Join/Create&lt;br&gt;Lab&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-100">
+          <mxGeometry x="60" y="110" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-159" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cyD56U8mkS8DnS-TQXg8-109" target="cyD56U8mkS8DnS-TQXg8-154" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -616,6 +622,9 @@
         <mxCell id="cyD56U8mkS8DnS-TQXg8-228" value="Add Assay" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;fillColor=#FFFFFF;" parent="cyD56U8mkS8DnS-TQXg8-176" vertex="1">
           <mxGeometry x="225.5" y="85" width="80" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="lI2lUhFzDLr2DAA_Fos2-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Join/Create&lt;br&gt;Lab&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-176">
+          <mxGeometry x="60" y="110" width="60" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-204" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="cyD56U8mkS8DnS-TQXg8-189" target="cyD56U8mkS8DnS-TQXg8-167" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -718,11 +727,11 @@
         </mxCell>
         <mxCell id="2jOCDJVjYcCqVUAFOC5I-43" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;jumpSize=6;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-760" y="690" as="sourcePoint" />
-            <mxPoint x="410" y="670" as="targetPoint" />
+            <mxPoint x="-745" y="700" as="sourcePoint" />
+            <mxPoint x="425" y="680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-670" y="690" />
-              <mxPoint x="410" y="690" />
+              <mxPoint x="-655" y="700" />
+              <mxPoint x="425" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -796,6 +805,29 @@
         </mxCell>
         <mxCell id="EY0-xiad_b6SsZkBfrIB-11" value="View Assays" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="EY0-xiad_b6SsZkBfrIB-2">
           <mxGeometry x="220" y="85" width="80" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wGEiaWBL0hBxM2e32lq4" name="Work Flow">
+    <mxGraphModel dx="934" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JY1Ix6I8B0Q5IYn0Fp9i-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="gRgPwu5B7qH0N6CNF8kt-1" target="gRgPwu5B7qH0N6CNF8kt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRgPwu5B7qH0N6CNF8kt-1" value="User creates account with email verification.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JY1Ix6I8B0Q5IYn0Fp9i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="gRgPwu5B7qH0N6CNF8kt-2" target="gRgPwu5B7qH0N6CNF8kt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRgPwu5B7qH0N6CNF8kt-2" value="User logins, if signing in from different device, ask for email verification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="365" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRgPwu5B7qH0N6CNF8kt-3" value="User must first create or join a lab before accessing inventory and PCR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="365" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
