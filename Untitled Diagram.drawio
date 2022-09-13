@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T21:32:43.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8uiL7LA3XKaUu_hXJWJ3" version="20.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-13T23:20:50.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Gegq1Dx8tvjDsz2pWpdq" version="20.3.0" type="github" pages="5">
   <diagram id="LaU50FEgYTBbN2ljfZ3S" name="Overview">
-    <mxGraphModel dx="3335" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5788" dy="2265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -810,7 +810,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wGEiaWBL0hBxM2e32lq4" name="Work Flow">
-    <mxGraphModel dx="1128" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -862,6 +862,9 @@
         <mxCell id="ki0AHW64hOsc3BL8yuRu-5" value="By adding assays, inventory will also be modified" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9aOzsH6IO0KHnGNIYn2o-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="ki0AHW64hOsc3BL8yuRu-7" target="QOR4hJp8WeVwLm9kQtw_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ki0AHW64hOsc3BL8yuRu-7" value="From here, user can begin PCR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -891,8 +894,34 @@
         <mxCell id="QOR4hJp8WeVwLm9kQtw_-7" value="Manager status can only be transferred by contacting developer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QOR4hJp8WeVwLm9kQtw_-9" value="User&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="9aOzsH6IO0KHnGNIYn2o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="QOR4hJp8WeVwLm9kQtw_-9" target="9aOzsH6IO0KHnGNIYn2o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOR4hJp8WeVwLm9kQtw_-9" value="User first enters samples. Automatically group by assay name and sample type" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9aOzsH6IO0KHnGNIYn2o-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="9aOzsH6IO0KHnGNIYn2o-2" target="9aOzsH6IO0KHnGNIYn2o-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9aOzsH6IO0KHnGNIYn2o-2" value="Paper work is created after confirmation. User can then adjust samples in plate and set cycle settings." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9aOzsH6IO0KHnGNIYn2o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="9aOzsH6IO0KHnGNIYn2o-4" target="9aOzsH6IO0KHnGNIYn2o-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9aOzsH6IO0KHnGNIYn2o-4" value="After confirming the edit, a PDF file is made and emailed to techs in the lab." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9aOzsH6IO0KHnGNIYn2o-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="9aOzsH6IO0KHnGNIYn2o-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9aOzsH6IO0KHnGNIYn2o-6" value="Master sheet is updated. Techs can validate if process is done in order to update the inventory." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9aOzsH6IO0KHnGNIYn2o-9" value="Inventory notifies techs if capacity as at a certain percentage." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
