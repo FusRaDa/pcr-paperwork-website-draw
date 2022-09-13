@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T20:05:13.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="t0Nstu5ozq2jm-DcXy_w" version="20.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-13T21:32:43.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8uiL7LA3XKaUu_hXJWJ3" version="20.3.0" type="github" pages="5">
   <diagram id="LaU50FEgYTBbN2ljfZ3S" name="Overview">
-    <mxGraphModel dx="3624" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3335" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -810,24 +810,89 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wGEiaWBL0hBxM2e32lq4" name="Work Flow">
-    <mxGraphModel dx="934" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JY1Ix6I8B0Q5IYn0Fp9i-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="gRgPwu5B7qH0N6CNF8kt-1" target="gRgPwu5B7qH0N6CNF8kt-2">
+        <mxCell id="JY1Ix6I8B0Q5IYn0Fp9i-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="gRgPwu5B7qH0N6CNF8kt-1" target="gRgPwu5B7qH0N6CNF8kt-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gRgPwu5B7qH0N6CNF8kt-1" value="User creates account with email verification.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="365" width="120" height="60" as="geometry" />
+        <mxCell id="gRgPwu5B7qH0N6CNF8kt-1" value="User creates account with email verification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JY1Ix6I8B0Q5IYn0Fp9i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="gRgPwu5B7qH0N6CNF8kt-2" target="gRgPwu5B7qH0N6CNF8kt-3">
+        <mxCell id="JY1Ix6I8B0Q5IYn0Fp9i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" target="gRgPwu5B7qH0N6CNF8kt-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415.0344827586207" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gRgPwu5B7qH0N6CNF8kt-2" value="User logins, if signing in from different device, ask for email verification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki0AHW64hOsc3BL8yuRu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="gRgPwu5B7qH0N6CNF8kt-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki0AHW64hOsc3BL8yuRu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="gRgPwu5B7qH0N6CNF8kt-3" target="ki0AHW64hOsc3BL8yuRu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gRgPwu5B7qH0N6CNF8kt-2" value="User logins, if signing in from different device, ask for email verification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="365" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="QOR4hJp8WeVwLm9kQtw_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="gRgPwu5B7qH0N6CNF8kt-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="gRgPwu5B7qH0N6CNF8kt-3" value="User must first create or join a lab before accessing inventory and PCR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="365" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="gRgPwu5B7qH0N6CNF8kt-3" value="User must first create or join a lab before accessing inventory and PCR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki0AHW64hOsc3BL8yuRu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="ki0AHW64hOsc3BL8yuRu-4" target="ki0AHW64hOsc3BL8yuRu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOR4hJp8WeVwLm9kQtw_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="ki0AHW64hOsc3BL8yuRu-4" target="QOR4hJp8WeVwLm9kQtw_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki0AHW64hOsc3BL8yuRu-4" value="User then adds assays and builds list" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki0AHW64hOsc3BL8yuRu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="ki0AHW64hOsc3BL8yuRu-5" target="ki0AHW64hOsc3BL8yuRu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOR4hJp8WeVwLm9kQtw_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="ki0AHW64hOsc3BL8yuRu-5" target="QOR4hJp8WeVwLm9kQtw_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki0AHW64hOsc3BL8yuRu-5" value="By adding assays, inventory will also be modified" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki0AHW64hOsc3BL8yuRu-7" value="From here, user can begin PCR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8xrNKNCzHegTjbl8nwWg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki0AHW64hOsc3BL8yuRu-9" target="8xrNKNCzHegTjbl8nwWg-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki0AHW64hOsc3BL8yuRu-9" value="User can only be invited to a lab via their user ID#" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8xrNKNCzHegTjbl8nwWg-2" value="MyLabs page will receive a notification and user can now choose to join that lab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="660" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOR4hJp8WeVwLm9kQtw_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=10;" edge="1" parent="1" source="QOR4hJp8WeVwLm9kQtw_-2" target="QOR4hJp8WeVwLm9kQtw_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOR4hJp8WeVwLm9kQtw_-2" value="User becomes manager to lab they create and can choose tech privileges and invite them" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOR4hJp8WeVwLm9kQtw_-3" value="User may export chosen assays in list to send to another lab." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOR4hJp8WeVwLm9kQtw_-5" value="User can change inventory settings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOR4hJp8WeVwLm9kQtw_-7" value="Manager status can only be transferred by contacting developer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOR4hJp8WeVwLm9kQtw_-9" value="User&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
