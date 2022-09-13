@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T03:55:20.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="d4ONhTFR3E25oK-Ojxtp" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T04:24:31.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="2oXiQWrMuzN9yA0SNsW9" version="20.3.0" type="github">
   <diagram id="LaU50FEgYTBbN2ljfZ3S" name="Page-1">
     <mxGraphModel dx="2753" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,13 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=3;" edge="1" parent="1" source="TSWFRNveR_eCSNxllhdP-13" target="cyD56U8mkS8DnS-TQXg8-53">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-190" y="515" />
+              <mxPoint x="-190" y="515" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=3;" edge="1" parent="1" source="TSWFRNveR_eCSNxllhdP-13" target="cyD56U8mkS8DnS-TQXg8-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="TSWFRNveR_eCSNxllhdP-13" target="cyD56U8mkS8DnS-TQXg8-109">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="1" source="TSWFRNveR_eCSNxllhdP-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-160" y="515" />
+              <mxPoint x="-160" y="730" />
+              <mxPoint x="440" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TSWFRNveR_eCSNxllhdP-13" value="HomePage.js&#xa;( Intro/Tutorial)" style="swimlane;startSize=30;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="-540" y="360" width="320" height="310" as="geometry">
@@ -33,7 +48,7 @@
         <mxCell id="TSWFRNveR_eCSNxllhdP-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/burger-menu-more-panel-128.png;fontSize=6;" parent="TSWFRNveR_eCSNxllhdP-13" vertex="1">
           <mxGeometry x="30" y="46" width="18" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="TSWFRNveR_eCSNxllhdP-41" value="My Labs&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" parent="TSWFRNveR_eCSNxllhdP-13" vertex="1">
+        <mxCell id="TSWFRNveR_eCSNxllhdP-41" value="My Labs&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Assays&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" parent="TSWFRNveR_eCSNxllhdP-13" vertex="1">
           <mxGeometry x="8.5" y="70" width="51.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="TSWFRNveR_eCSNxllhdP-35" value="&lt;font size=&quot;1&quot;&gt;Introduction&lt;br&gt;and&lt;br&gt;Tutorial&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" parent="TSWFRNveR_eCSNxllhdP-13" vertex="1">
@@ -130,7 +145,7 @@
         <mxCell id="JK3jXlClNwFspz71vpZK-23" value="Create a Lab" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="JK3jXlClNwFspz71vpZK-15" vertex="1">
           <mxGeometry x="70" y="80" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JK3jXlClNwFspz71vpZK-24" value="Settings:&lt;br&gt;&lt;ol&gt;&lt;li&gt;Lab name&lt;/li&gt;&lt;li&gt;Tech privileges&lt;/li&gt;&lt;li&gt;etc...&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" parent="JK3jXlClNwFspz71vpZK-15" vertex="1">
+        <mxCell id="JK3jXlClNwFspz71vpZK-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Settings:&lt;br&gt;&lt;/font&gt;&lt;ol style=&quot;font-size: 10px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Lab name&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Tech privileges&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;etc...&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=center;" parent="JK3jXlClNwFspz71vpZK-15" vertex="1">
           <mxGeometry x="70" y="110" width="230" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-32" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;&lt;font style=&quot;font-size: 3px;&quot;&gt;Current Lab:&lt;/font&gt;&amp;nbsp; matt&#39;s lab&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=6;" vertex="1" parent="JK3jXlClNwFspz71vpZK-15">
@@ -277,7 +292,7 @@
           <mxGeometry x="249" y="64" width="40" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-173" value="View Assays" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-53">
-          <mxGeometry x="220" y="85" width="80" height="20" as="geometry" />
+          <mxGeometry x="220" y="85" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-63" value="Promotions.js" style="swimlane;startSize=30;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-540" y="10" width="320" height="310" as="geometry">
@@ -372,17 +387,6 @@
         <mxCell id="cyD56U8mkS8DnS-TQXg8-89" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;&lt;font style=&quot;font-size: 3px;&quot;&gt;Current Lab:&lt;/font&gt;&amp;nbsp; matt&#39;s lab&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=6;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-81">
           <mxGeometry x="249" y="64" width="40" as="geometry" />
         </mxCell>
-        <mxCell id="cyD56U8mkS8DnS-TQXg8-169" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" target="cyD56U8mkS8DnS-TQXg8-167">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="360" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="430" y="330" />
-              <mxPoint x="380" y="300" />
-              <mxPoint x="410" y="720" />
-              <mxPoint x="470" y="750" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-160" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cyD56U8mkS8DnS-TQXg8-100" target="cyD56U8mkS8DnS-TQXg8-154">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-760" y="1060" as="targetPoint" />
@@ -412,7 +416,7 @@
         <mxCell id="cyD56U8mkS8DnS-TQXg8-105" value="My Labs&lt;br&gt;&lt;br&gt;Assays&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-100">
           <mxGeometry x="8.5" y="70" width="51.5" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="cyD56U8mkS8DnS-TQXg8-106" value="&lt;font size=&quot;1&quot;&gt;List of reagents and&lt;br&gt;settings to notify of resupplying&lt;br&gt;at chosen percentage&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-100">
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-106" value="&lt;font size=&quot;1&quot;&gt;List of products and&lt;br&gt;settings to notify of resupplying&lt;br&gt;at chosen percentage.&lt;br&gt;&lt;br&gt;User can also modify inventory&lt;br&gt;and add/remove products.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-100">
           <mxGeometry x="60" y="70" width="251" height="230" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-107" value="&lt;span style=&quot;font-size: 5px;&quot;&gt;Welcome: username&lt;/span&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;span style=&quot;font-size: 5px;&quot;&gt;Lab: matt&#39;s lab&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-100">
@@ -428,6 +432,14 @@
               <mxPoint x="-380" y="1040" />
               <mxPoint x="-370" y="1040" />
               <mxPoint x="-380" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="cyD56U8mkS8DnS-TQXg8-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -451,7 +463,7 @@
         <mxCell id="cyD56U8mkS8DnS-TQXg8-114" value="My Labs&lt;br&gt;&lt;br&gt;Assays&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-109">
           <mxGeometry x="8.5" y="70" width="51.5" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="cyD56U8mkS8DnS-TQXg8-115" value="&lt;font size=&quot;1&quot;&gt;List of Products:&lt;br&gt;Products will have a button&lt;br&gt;to add to inventory&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-109">
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-115" value="&lt;font size=&quot;1&quot;&gt;List of Products:&lt;br&gt;Products will have a button&lt;br&gt;to add to inventory/assay.&lt;br&gt;Status &quot;in Inventory&quot; will replace&lt;br&gt;add button if product is already&lt;br&gt;in inventory.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-109">
           <mxGeometry x="60" y="70" width="251" height="230" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-116" value="&lt;span style=&quot;font-size: 5px;&quot;&gt;Welcome: username&lt;/span&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;span style=&quot;font-size: 5px;&quot;&gt;Lab: matt&#39;s lab&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-109">
@@ -500,7 +512,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-167" value="Object: Assay" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="320" width="120" height="30" as="geometry" />
+          <mxGeometry x="365" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-171" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cyD56U8mkS8DnS-TQXg8-53" target="cyD56U8mkS8DnS-TQXg8-167">
           <mxGeometry relative="1" as="geometry">
@@ -514,15 +526,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cyD56U8mkS8DnS-TQXg8-187" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="cyD56U8mkS8DnS-TQXg8-176" target="cyD56U8mkS8DnS-TQXg8-109">
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-187" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cyD56U8mkS8DnS-TQXg8-189" target="cyD56U8mkS8DnS-TQXg8-109">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="750" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="425" y="750" />
+              <mxPoint x="790" y="750" />
               <mxPoint x="440" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cyD56U8mkS8DnS-TQXg8-176" value="Assays.js" style="swimlane;startSize=30;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-200" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="cyD56U8mkS8DnS-TQXg8-176">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="450" />
+              <mxPoint x="600" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-205" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="cyD56U8mkS8DnS-TQXg8-176" target="cyD56U8mkS8DnS-TQXg8-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-176" value="AssayList.js" style="swimlane;startSize=30;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="265" y="360" width="320" height="310" as="geometry">
             <mxRectangle x="230" y="360" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -542,7 +567,7 @@
         <mxCell id="cyD56U8mkS8DnS-TQXg8-181" value="My Labs&lt;br&gt;&lt;br&gt;Assays&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-176">
           <mxGeometry x="8.5" y="70" width="51.5" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="cyD56U8mkS8DnS-TQXg8-182" value="&lt;font size=&quot;1&quot;&gt;Introduction&lt;br&gt;and&lt;br&gt;Tutorial&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-176">
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-182" value="&lt;font size=&quot;1&quot;&gt;List of Assays&lt;br&gt;with buttons on&lt;br&gt;each assay to modify/delete.&lt;br&gt;&lt;br&gt;User may also create an assay group&lt;br&gt;that combines assays in the list&lt;br&gt;under one name. &lt;br&gt;Assay group will be added to the list.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-176">
           <mxGeometry x="60" y="70" width="251" height="230" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-183" value="&lt;span style=&quot;font-size: 5px;&quot;&gt;Welcome: username&lt;/span&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;span style=&quot;font-size: 5px;&quot;&gt;Lab: matt&#39;s lab&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-176">
@@ -552,7 +577,56 @@
           <mxGeometry x="249" y="64" width="40" as="geometry" />
         </mxCell>
         <mxCell id="cyD56U8mkS8DnS-TQXg8-185" value="PCR" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-176">
-          <mxGeometry x="220" y="85" width="80" height="20" as="geometry" />
+          <mxGeometry x="65" y="85" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-188" value="Create Assay Group" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-176">
+          <mxGeometry x="145.5" y="85" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-228" value="Add Assay" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-176">
+          <mxGeometry x="225.5" y="85" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-203" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="cyD56U8mkS8DnS-TQXg8-189" target="cyD56U8mkS8DnS-TQXg8-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-204" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="cyD56U8mkS8DnS-TQXg8-189" target="cyD56U8mkS8DnS-TQXg8-167">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="335" />
+              <mxPoint x="800" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-189" value="AddAssay.js" style="swimlane;startSize=30;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="320" height="310" as="geometry">
+            <mxRectangle x="230" y="360" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-190" value="pcrpaperwork.com" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-189">
+          <mxGeometry x="8.5" y="40" width="303" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-191" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-189">
+          <mxGeometry x="8.5" y="70" width="303" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-192" value="Login" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-189">
+          <mxGeometry x="250" y="48.75" width="39" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-193" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/burger-menu-more-panel-128.png;fontSize=6;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-189">
+          <mxGeometry x="30" y="46" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-194" value="My Labs&lt;br&gt;&lt;br&gt;Assays&lt;br&gt;&lt;br&gt;PCR&lt;br&gt;&lt;br&gt;Inventory&lt;br&gt;&lt;br&gt;Products&lt;br&gt;&lt;br&gt;Promotions&lt;br&gt;&lt;br&gt;Blogs&lt;br&gt;&lt;br&gt;About" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-189">
+          <mxGeometry x="8.5" y="70" width="51.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-195" value="&lt;font size=&quot;1&quot;&gt;Settings&amp;nbsp; to create an assay:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;1&quot;&gt;Products used in assay&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font size=&quot;1&quot;&gt;Products used per sample&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Assay name/code&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Add labeling columns&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;align=center;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-189">
+          <mxGeometry x="60" y="70" width="251" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-196" value="&lt;span style=&quot;font-size: 5px;&quot;&gt;Welcome: username&lt;/span&gt;&lt;br style=&quot;font-size: 5px;&quot;&gt;&lt;span style=&quot;font-size: 5px;&quot;&gt;Lab: matt&#39;s lab&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-189">
+          <mxGeometry x="8.5" y="80" width="51.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-197" value="&lt;font style=&quot;font-size: 3px;&quot;&gt;&lt;font style=&quot;font-size: 3px;&quot;&gt;Current Lab:&lt;/font&gt;&amp;nbsp; matt&#39;s lab&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=6;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-189">
+          <mxGeometry x="249" y="64" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cyD56U8mkS8DnS-TQXg8-198" value="PCR" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="cyD56U8mkS8DnS-TQXg8-189">
+          <mxGeometry x="75" y="85" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
