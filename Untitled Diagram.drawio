@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T15:49:25.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="uSGkxoOTnAhCS0c8G3j_" version="22.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-08T15:58:52.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="sW4gpfCqNCq-bAryqD2V" version="22.0.4" type="github" pages="5">
   <diagram id="LaU50FEgYTBbN2ljfZ3S" name="Overview">
     <mxGraphModel dx="3081" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1167,7 +1167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d4UD0dhXDjPZaAkjAgIc" name="Plate Schema">
-    <mxGraphModel dx="1151" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="658" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1358,8 +1358,43 @@
         <mxCell id="9YwyGcoc0bAtyQXlmy_0-55" value="Total Volume (µM)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="9YwyGcoc0bAtyQXlmy_0-52">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9YwyGcoc0bAtyQXlmy_0-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="830" y="360" width="210" height="210" as="geometry" />
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-57" value="Assay Formula" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="320" width="270" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-70" value="Sc" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="9YwyGcoc0bAtyQXlmy_0-57">
+          <mxGeometry x="35" y="25" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9YwyGcoc0bAtyQXlmy_0-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-59" value="Legend" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="580" width="205" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-60" value="Sc = Stock Concentration (µM)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="9YwyGcoc0bAtyQXlmy_0-59">
+          <mxGeometry y="30" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-71" value="Sn = Samples Number (Int)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="9YwyGcoc0bAtyQXlmy_0-59">
+          <mxGeometry y="60" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-61" value="Cn = Controls Number (Int)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="9YwyGcoc0bAtyQXlmy_0-59">
+          <mxGeometry y="90" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-62" value="Fc = Final Concentration (µM)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="9YwyGcoc0bAtyQXlmy_0-59">
+          <mxGeometry y="120" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-63" value="Rv = Reaction Volume (µM)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="9YwyGcoc0bAtyQXlmy_0-59">
+          <mxGeometry y="150" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-64" value="Df = Dilution Factor (Decimal)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="9YwyGcoc0bAtyQXlmy_0-59">
+          <mxGeometry y="180" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-65" value="Rf = Final Reaction Volume (µM)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="9YwyGcoc0bAtyQXlmy_0-59">
+          <mxGeometry y="210" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-66" value="Tv = Total Master-Mix Volume (µM)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="9YwyGcoc0bAtyQXlmy_0-59">
+          <mxGeometry y="240" width="205" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
