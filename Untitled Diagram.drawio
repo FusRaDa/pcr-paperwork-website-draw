@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T01:20:32.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xyVrLcdlrYuOtn8kDYsA" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-26T20:37:02.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="MxiyhudZLvymz7918otF" version="22.0.8" type="github" pages="5">
   <diagram id="LaU50FEgYTBbN2ljfZ3S" name="Overview">
     <mxGraphModel dx="3081" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1224,7 +1224,7 @@
         <mxCell id="9YwyGcoc0bAtyQXlmy_0-11" value="Protocol (Many-to-one, ForeignKey)" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" parent="9YwyGcoc0bAtyQXlmy_0-9" vertex="1">
           <mxGeometry y="60" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9YwyGcoc0bAtyQXlmy_0-12" value="Size (384, 96, 48, 24, wells)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" parent="9YwyGcoc0bAtyQXlmy_0-9" vertex="1">
+        <mxCell id="9YwyGcoc0bAtyQXlmy_0-12" value="Size (384, 96, 48, 24, 8 wells)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" parent="9YwyGcoc0bAtyQXlmy_0-9" vertex="1">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9YwyGcoc0bAtyQXlmy_0-13" value="Assays" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" parent="9YwyGcoc0bAtyQXlmy_0-9" vertex="1">
